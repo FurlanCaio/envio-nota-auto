@@ -28,7 +28,11 @@ Gere uma senha de app em: https://myaccount.google.com/apppasswords
 Use essa senha gerada no lugar da sua senha do Gmail no código Python:
 
 senha = 'SENHA_DO_APP'  # Não é sua senha do Gmail
+
+
 ⚠️ Nunca compartilhe essa senha publicamente!
+
+
 python enviar_email.py
 
 Preencha os dados solicitados e o PDF será criado e enviado automaticamente.
