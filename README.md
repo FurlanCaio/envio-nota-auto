@@ -57,5 +57,5 @@ Confira a demonstração em vídeo no LinkedIn: [https://www.linkedin.com/posts/
 📬 Contato
 Desenvolvido por Caio Furlan
 📧 contato.cfurlan@gmail.com
-🔗 [linkedin.com/in/caio-furlan-263978213]
+🔗 [https://linkedin.com/in/caio-furlan-263978213]
 
