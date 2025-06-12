@@ -27,7 +27,8 @@ Gere uma senha de app em: https://myaccount.google.com/apppasswords
 
 Use essa senha gerada no lugar da sua senha do Gmail no código Python:
 
-senha = 'SENHA_DO_APP'  # Não é sua senha do Gmail
+
+senha = 'SENHA_DO_APP'  # Essa não é a sua senha do gmail, é gerada pelo senha do app no google
 
 
 ⚠️ Nunca compartilhe essa senha publicamente!
